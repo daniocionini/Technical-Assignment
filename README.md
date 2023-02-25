@@ -66,13 +66,13 @@ By focusing on these physiological characteristics and using appropriate image p
 ### 5.
 Assuming the data follows a Gaussian distribution and the sets of numerical values are independent, I would perform a one-way ANOVA test to compute differences between the set's means.<br><br>
 
-I would then perform a Levine's test on the variances to compute if the variances are equal or unequal and set the alpha value for significance at 0.005, where H0 is 'the variances are equal' and H1 is 'the variances are unequal'.<br><br>
+I would then perform a Levine's test on the variances to compute if the variances are equal or unequal and set the alpha value for significance at 0.005, where H0 is *'the variances are equal'* and H1 is *'the variances are unequal'*.<br><br>
 
 If the resulting p-value from Levine's test is smaller than 0.005 then we reject the null hypothesis and assume the variances are unequal, the ANOVA test might not be trustworthy. In this case, Welch's ANOVA test might be more appropriate.<br><br>
 
 F-test would be the most appropriate parametric test to compute differences between the standard deviations.<br><br>
 
-If the data does not follow a Gaussian distribution, I would use a non-parametric set.
+If the data does not follow a Gaussian distribution, I would use non-parametric test methods.
 
 ### 6.
 ```
@@ -104,7 +104,7 @@ assert 'mean' and 'std' in assert_file.columns, "The csv file is not correctly s
 ### 8.
 According to the publication *["Cell Viability Assays"](https://pubmed.ncbi.nlm.nih.gov/23805433/) by Terry L Riss, PhD, Richard A Moravec, BS, Andrew L Niles, MS, Sarah Duellman, PhD, Hélène A Benink, PhD, Tracy J Worzella, MS, and Lisa Minor. [Published May 1, 2013; Last Update: July 1, 2016.]*
 
-[...] an introductory overview of the most commonly used assay methods to estimate the number of viable cells in multi-well plates.
+*[...]* an introductory overview of the most commonly used assay methods to estimate the number of viable cells in multi-well plates.
 
 - **Tetrazolium Reduction Assays**<br>
 MTT which is positively charged and readily penetrates viable eukaryotic cells
@@ -119,7 +119,7 @@ The assay uses a modified dUTP conjugated to a fluorophore to label the 3’OH e
 ### 9.
 To solve this problem I would calculate the proportion.
 
-a:b = c:d
+a : b = c : d
 
 (27-22) : 12 = (22-15) : x
 
@@ -127,4 +127,4 @@ a:b = c:d
 
 x = (12m * 7°C) / 5°C = 16.8m
 
-The additional time required to reach 15°C is 16.8 minutes
+The additional time required to reach 15°C is **16.8 minutes**
