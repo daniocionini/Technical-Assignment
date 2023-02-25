@@ -1,4 +1,4 @@
-# Digi.Bio Technical Assignment
+# Assignment
 
 ### 1.
 The graph can be used to determine which fluorophores can be visualized using a filter setup. Fluorophores typically emit light at a specific wavelength, which can be detected by a filter that transmits light at that wavelength. By examining the transmittance graph, I can determine which wavelengths of light will be transmitted through the filter and detected by the microscope. I will be using an open-source database [**FPbase**](https://www.fpbase.org/) together with the [**Fluorescence SpectraViewer**](https://www.thermofisher.com/order/fluorescence-spectraviewer#!/) from Thermo Fisher Scientific to identify fluorophores.
