@@ -26,6 +26,8 @@ Cell death is discriminated into two main forms: apoptosis and necrosis.
 
 ![alt text](https://github.com/daniocionini/Digi.Bio-Technical-Assignment/blob/main/img/Features-of-autophagic-apoptotic-and-necrotic-cell-death-Electron-microscopy-images-of.jpeg)
 
+*a) Normal cell; b) autophagic showing the massive formation of (double-membraned) autophagic vacuoles; c) apoptotic cell showing the typical round shape and chromatin condensation; d) necrotic cell showing increased cell size, rupture of cell membrane and vacuoles formation.*
+
 - **Apoptosis**<br>
 In contrast to necrosis, apoptosis is a regulated, energy-dependent form of cell death leading to phagocytosis of cellular remnants by neighbouring cells.<br>
 Characteristic morphological features:
