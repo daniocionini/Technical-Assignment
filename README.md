@@ -65,6 +65,12 @@ Using a Heuristic approach, to identify dead cells from live cells in machine vi
 
 By focusing on these physiological characteristics and using appropriate image processing techniques and machine learning algorithms, it may be possible to differentiate between living and dead cells in grayscale video frames.
 
+----
+I have deployed a web application, hosted on **Amazon Web Services** through the use of AWS Elastic Beanstalk, employs the Dash framework to facilitate the visualization and analysis of the distinguishing cellular properties of three distinct cell types.<br>
+[**Web Application Link**](http://identificationofcells-env.eba-i8vqxvkm.eu-west-2.elasticbeanstalk.com/)
+
+----
+
 ### 5.
 Assuming the data follows a Gaussian distribution and the sets of numerical values are independent, I would perform a one-way ANOVA test to compute differences between the set's means.<br><br>
 
