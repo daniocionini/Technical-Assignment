@@ -35,7 +35,7 @@ Characteristic morphological features:
 
 ![alt text](https://github.com/daniocionini/Digi.Bio-Technical-Assignment/blob/main/img/different_cell_death_stages.jpeg)
 
-- *Necrosis*<br>
+- **Necrosis**<br>
 Characteristic morphological features:
   - a type of cell death that is not programmed but rather accidental. In contrast to apoptosis, necrosis is a passive form of cell death without the intricate regulatory mechanisms that are characteristic of apoptosis. The causes of necrotic cell death such as heat stress or toxic agents can in many cases also induce apoptotic cell death.<br>
   
